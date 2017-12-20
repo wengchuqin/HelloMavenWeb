@@ -18,5 +18,7 @@ public class Service {
     }
 
     public void hello2(){
+        System.out.println("IDEA hello");
+        System.out.println("online hello");
     }
 }
