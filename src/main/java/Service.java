@@ -18,6 +18,5 @@ public class Service {
     }
 
     public void hello2(){
-        System.out.println("online hello");
     }
 }
